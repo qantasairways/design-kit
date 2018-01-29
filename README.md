@@ -1,6 +1,8 @@
 # Runway Design Kit
 A design kit of the Qantas Design System including typography, colour palettes, elements, components, iconography, layouts and page templates.
 
+![Runway Design Kit](https://user-images.githubusercontent.com/479470/35488925-dacdf8aa-04e3-11e8-82d1-e0d8539f7789.png)
+
 <span>&#8594;</span> ~~**[Download Web design kit](http:// "Coming soon")**~~ *(coming soon)*
 
 <span>&#8594;</span> ~~**[Download iOS design kit](http:// "Coming soon")**~~ *(coming soon)*
