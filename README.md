@@ -1,5 +1,5 @@
 # Runway Design Kit
-A design kit of the Qantas Design System including typography, colour palettes, elements, components, iconography, layouts and page templates.
+Find everything you need to get started designing new  experiences using the Qantas Runway Design System. The master file is a Sketch Library (.sketch) with symbols for colours and themes, typography, iconography, spacing, components, layouts, page templates and more.
 
 ![Runway Design Kit](https://user-images.githubusercontent.com/479470/35488925-dacdf8aa-04e3-11e8-82d1-e0d8539f7789.png)
 
@@ -19,9 +19,10 @@ See what's changed in the ~~[changelog](http:// "Coming soon")~~ *(coming soon)*
 
 Runway's design kits are created in Sketch and use Qantas Ciutadella fonts. Follow these steps to get started:
 
-1. Download the most recent version of Sketch [here](https://www.sketchapp.com/).
+1. Ensure you have the latest version of Sketch. You can download it [here](https://www.sketchapp.com/).
 2. [Download fonts](https://www.dropbox.com/sh/2f2hc9xy0e3dzgc/AAAf4rQp-6cBk3zYa6LnMQosa?dl=0), then install them in your system.
-3. Download the latest version of the Runway Design Kit above (Runway-Design-Kit_xxx_x.x.x.sketch).
+3. Download the latest version of the Runway Design Kit above (Runway-Design-Kit-xxx_x.x.x.sketch).
+4. Add library to Sketch. See how it works here.
 
 ### Developers
 
